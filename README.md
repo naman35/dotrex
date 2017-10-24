@@ -1,2 +1,1 @@
-# dotrex
-portfolio template
+# shubham76.github.io
